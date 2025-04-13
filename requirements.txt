@@ -1,0 +1,8 @@
+
+---
+
+### ✅ **2. `requirements.txt` Content**
+```txt
+requests
+pyfiglet
+beautifulsoup4

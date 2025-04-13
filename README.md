@@ -12,6 +12,7 @@ Sentin3l-B is a Python-based web vulnerability scanner that detects open ports, 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/sentin3l-b
-cd sentin3l-b
+git clone https://github.com/zeruabell/sentin3l-b
+cd sentin3l-B
 pip install -r requirements.txt
+python3 sentin3l-B.py
